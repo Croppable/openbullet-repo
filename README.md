@@ -1,4 +1,4 @@
-# Cropables Openbullet Repo
+# Croppables Openbullet Repo
 This Is Just A Simpe Repo That Allows You To Use My Ducking Configs
 
 # Requirments
