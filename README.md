@@ -6,8 +6,8 @@ The Only Requirments To Use This Repo Is Just:
 - Openbullet 1.2.1+
 
 # Installation
-1): Copy This URL: "https://github.com/Croppable/openbullet-repo/blob/master/Configs.zip?raw=true"
-2): Open Your Software, Go To Settings>Openbullet>Sources And Click "Add Source"
-3): Paste The URL That You Copy & Save Your Settings & Reload Your Config List.
+-1: Copy This URL: "https://github.com/Croppable/openbullet-repo/blob/master/Configs.zip?raw=true"
+-2: Open Your Software, Go To Settings>Openbullet>Sources And Click "Add Source"
+-3: Paste The URL That You Copy & Save Your Settings & Reload Your Config List.
  This Should Give You Over 300+ Configs To Use!
  
